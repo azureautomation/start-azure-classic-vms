@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 3716,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-azure-classic-vms/master/Start-AzureVMs.ps1",
+    "DownloadCount": 14902,
+    "Id": "Start-Azure-Classic-VMs-86ef746b",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 91,
+    "RaterCount": 4,
+    "Rating": 4.3,
+    "ReleaseDate": "2015-9-10T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This PowerShell Workflow runbook connects to Azure and starts all classic VMs in an Azure subscription or cloud service. \u00a0You can attach a schedule to this runbook to run it at a specific time.",
+    "Title": "Start Azure Classic VMs",
+    "UpdatedDate": "2016-5-18T00:00:00",
+    "Url": "https://github.com/azureautomation/start-azure-classic-vms",
+    "UserTags": "Virtual Machine, Azure Automation, VM Lifecycle Management"
+}
